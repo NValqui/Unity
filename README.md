@@ -1,4 +1,4 @@
-# This code allows for the ball to lose its bounciness when it hits a certain platform. This is used in order for the ball to efficiently complete the course
+# This code allows for the ball to lose its bounciness when it hits a certain platform. This is used in order for the ball to efficiently complete the course. Otherwise, it would have gone of course and overcomplicated things
 
 using System.Collections;
 using System.Collections.Generic;
